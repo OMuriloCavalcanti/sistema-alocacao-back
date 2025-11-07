@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\webapi\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\webapi\\controllers\\veiculoassistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\veiculoassistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044DE76-6257-44A5-BB7F-A8678CD2C5DC}|Domain\\Domain.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\domain\\interfaces\\igrupoveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044DE76-6257-44A5-BB7F-A8678CD2C5DC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\igrupoveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044DE76-6257-44A5-BB7F-A8678CD2C5DC}|Domain\\Domain.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\domain\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044DE76-6257-44A5-BB7F-A8678CD2C5DC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A758ED-8C3F-46CA-A5E0-D73F0DAD2BE4}|Infrastructure\\Infrastructure.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\infrastructure\\services\\veiculoassistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A758ED-8C3F-46CA-A5E0-D73F0DAD2BE4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\veiculoassistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044DE76-6257-44A5-BB7F-A8678CD2C5DC}|Domain\\Domain.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\domain\\models\\veiculoassistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044DE76-6257-44A5-BB7F-A8678CD2C5DC}|Domain\\Domain.csproj|solutionrelative:domain\\models\\veiculoassistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044DE76-6257-44A5-BB7F-A8678CD2C5DC}|Domain\\Domain.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\domain\\interfaces\\interfacesservices\\iveiculoassistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044DE76-6257-44A5-BB7F-A8678CD2C5DC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfacesservices\\iveiculoassistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7044DE76-6257-44A5-BB7F-A8678CD2C5DC}|Domain\\Domain.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\domain\\interfaces\\iveiculoassistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7044DE76-6257-44A5-BB7F-A8678CD2C5DC}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iveiculoassistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61357A65-70DD-44D3-8B78-2D6A2E471B19}|Application\\Application.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\application\\interfaces\\interfaceveiculoassistenciaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61357A65-70DD-44D3-8B78-2D6A2E471B19}|Application\\Application.csproj|solutionrelative:application\\interfaces\\interfaceveiculoassistenciaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61357A65-70DD-44D3-8B78-2D6A2E471B19}|Application\\Application.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\application\\repository\\appveiculoassistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61357A65-70DD-44D3-8B78-2D6A2E471B19}|Application\\Application.csproj|solutionrelative:application\\repository\\appveiculoassistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DE30C1B8-EEEA-4088-B8D0-F01ABDA5C8D1}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A758ED-8C3F-46CA-A5E0-D73F0DAD2BE4}|Infrastructure\\Infrastructure.csproj|c:\\users\\muner\\desktop\\alocacao\\sistemaalocacao\\infrastructure\\migrations\\20251103173635_initc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A758ED-8C3F-46CA-A5E0-D73F0DAD2BE4}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20251103173635_initc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGrupoVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Domain\\Interfaces\\IGrupoVeiculo.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IGrupoVeiculo.cs",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Domain\\Interfaces\\IGrupoVeiculo.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IGrupoVeiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T12:57:45.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Domain\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Domain\\Models\\Veiculo.cs",
+              "RelativeToolTip": "Domain\\Models\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:48:04.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VeiculoAssistenciaService.cs",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Infrastructure\\Services\\VeiculoAssistenciaService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\VeiculoAssistenciaService.cs",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Infrastructure\\Services\\VeiculoAssistenciaService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\VeiculoAssistenciaService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwDsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:44:46.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeiculoAssistenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\Controllers\\VeiculoAssistenciaController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\VeiculoAssistenciaController.cs",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\Controllers\\VeiculoAssistenciaController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\VeiculoAssistenciaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:21:59.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\Controllers\\VeiculoController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\VeiculoController.cs",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\Controllers\\VeiculoController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\VeiculoController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:17:57.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VeiculoAssistencia.cs",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Domain\\Models\\VeiculoAssistencia.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\VeiculoAssistencia.cs",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Domain\\Models\\VeiculoAssistencia.cs",
+              "RelativeToolTip": "Domain\\Models\\VeiculoAssistencia.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:17:39.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IVeiculoAssistenciaService.cs",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Domain\\Interfaces\\InterfacesServices\\IVeiculoAssistenciaService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfacesServices\\IVeiculoAssistenciaService.cs",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Domain\\Interfaces\\InterfacesServices\\IVeiculoAssistenciaService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfacesServices\\IVeiculoAssistenciaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:05:28.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVeiculoAssistencia.cs",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Domain\\Interfaces\\IVeiculoAssistencia.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IVeiculoAssistencia.cs",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Domain\\Interfaces\\IVeiculoAssistencia.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IVeiculoAssistencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:05:54.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterfaceVeiculoAssistenciaApp.cs",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Application\\Interfaces\\InterfaceVeiculoAssistenciaApp.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\InterfaceVeiculoAssistenciaApp.cs",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Application\\Interfaces\\InterfaceVeiculoAssistenciaApp.cs",
+              "RelativeToolTip": "Application\\Interfaces\\InterfaceVeiculoAssistenciaApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:06:46.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppVeiculoAssistencia.cs",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Application\\Repository\\AppVeiculoAssistencia.cs",
+              "RelativeDocumentMoniker": "Application\\Repository\\AppVeiculoAssistencia.cs",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Application\\Repository\\AppVeiculoAssistencia.cs",
+              "RelativeToolTip": "Application\\Repository\\AppVeiculoAssistencia.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:06:56.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.http",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\WebAPI.http",
+              "RelativeToolTip": "WebAPI\\WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-03T17:46:43.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251103173635_InitC.cs",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Infrastructure\\Migrations\\20251103173635_InitC.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251103173635_InitC.cs",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\Infrastructure\\Migrations\\20251103173635_InitC.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251103173635_InitC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:36:35.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T17:26:53.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "WebAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\Dockerfile",
+              "RelativeToolTip": "WebAPI\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-03T17:13:35.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\muner\\Desktop\\Alocacao\\SistemaAlocacao\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T16:43:13.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+@WebAPI_HostAddress = http://localhost:7116
+
+GET {{WebAPI_HostAddress}}/api/GrupoVeiculo/
+Accept: application/json
+
+
+
+
+###
+POST {{WebAPI_HostAddress}}/api/GrupoVeiculo/
+Content-Type: application/json
+{
+  "nome": "Teste",
+  "descricao": "Veículos utilitários esportivos"
+}
+###
+
+GET {{WebAPI_HostAddress}}/api/Veiculo
+###
+
+POST {{WebAPI_HostAddress}}/api/Veiculo/
+Content-Type: application/json
+{
+  "modelo": "Veículo 2",
+  "placa": "ABC-1234",
+  "grupoId": 1
+}
+###
